@@ -1,0 +1,7 @@
+registro na localweb spf
+
+"v=spf1 include:_spf.locaweb.com.br ?all"
+
+Alterado para 
+
+"v=spf1 a mx include:_spf.google.com include:_spf.locaweb.com.br ?all"
